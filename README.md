@@ -75,12 +75,14 @@
 -->
 
 ## 📊 GitHub Stats
+
 <!--![](https://github-readme-stats.vercel.app/api?username=scottschreckengaust&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>-->
 ![](https://github-readme-stats.vercel.app/api?username=scottschreckengaust)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=scottschreckengaust)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=scottschreckengaust)
 
 ### 🏆 GitHub Trophies
+
 ![](https://github-trophies.vercel.app/?username=scottschreckengaust&column=6)
 <br />
 ![](https://github-profile-trophy.vercel.app/?username=scottschreckengaust&column=6&rank=SSS,S,AAA,A)
@@ -91,9 +93,11 @@
 
 
 #### ✍️ Random Dev Quote
+
 ![](https://quotes-github-readme.vercel.app/api)
 
 #### 🤣 Random Dev Joke
+
 <i>Random dev joke for you! (create your own by clicking here ↓)</i><br>
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
 
@@ -102,8 +106,12 @@
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 -->
 
-## 💰You can help me by Donating
+## 💰 Request or Pay
+
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/scottschreckengaust)
+[![VenMo](https://img.shields.io/badge/VenMo-008CFF?style=for-the-badge&logo=venmo&logoColor=white)](https://account.venmo.com/u/scottschreckengaust)
+
+<!--
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/yes)
 [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/yes) 
   
@@ -112,7 +120,8 @@ https://github-readme-stats.vercel.app/api/top-langs?username=scottschreckengaus
 
 https://github-readme-stats.vercel.app/api?username=scottschreckengaust
 https://visitor-badge.laobi.icu/badge?page_id=scottschreckengaust.scottschreckengaust
+-->
 
 ---
-[![](https://visitcount.itsvg.in/api?id=scottschreckengaust&icon=0&color=0)](https://visitcount.itsvg.in)
+[![Visits](https://visitcount.itsvg.in/api?id=scottschreckengaust&icon=0&color=0)](https://visitcount.itsvg.in)
 
