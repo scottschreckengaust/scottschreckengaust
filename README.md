@@ -81,7 +81,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=scottschreckengaust)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=scottschreckengaust)
 
-### 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 ![](https://github-trophies.vercel.app/?username=scottschreckengaust&column=6)
 <br />
@@ -92,17 +92,18 @@
 -->
 
 
-#### ✍️ Random Dev Quote
+## ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api)
 
-#### 🤣 Random Dev Joke
+## 🤣 Random Dev Joke
 
-<i>Random dev joke for you! (create your own by clicking here ↓)</i><br>
-<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
+<i>Random dev joke for you! (create your own by clicking here ↓)</i>
+<br />
+<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23ffffff&textColor=%23000000&qColor=%23000000&aColor=%23cccccc&borderColor=%23ffffff" alt="README Jokes"></a>
 
 <!--
-#### 😂 Random Dev Meme
+## 😂 Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 -->
 
