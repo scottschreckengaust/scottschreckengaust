@@ -2,8 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Architects+Daughter&letterSpacing=-.01rem;&pause=500&color=CCCCCC&multiline=true&width=500&height=60&lines=IF+NOT+coding+TRY+being+with+people+CATCH+%F0%9F%8F%84%F0%9F%8F%BD%E2%80%8D%E2%99%82%EF%B8%8F;FINALLY+living%2C+eating%2C+and+sleeping)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on: enabling [Terraform Bedrock Module](https://github.com/aws-ia/terraform-aws-bedrock) and [AWS Generative AI CDK Constructs](https://github.com/awslabs/generative-ai-cdk-constructs)
-- 🌱 I’m currently learning: testing [Terraform](https://developer.hashicorp.com/terraform/language/tests)
+- 🔭 I’m currently working on: [AWS MCP Servers](https://github.com/awslabs/mcp)
+- 🌱 I’m currently learning: more about vibe coding and creating MCPs
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-scottschreckengaust-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/scottschreckengaust/)](https://www.linkedin.com/in/scottschreckengaust/)
 - ⚡ Fun fact: I love surfing while not coding 🏄🏽‍♂️
 
