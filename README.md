@@ -123,6 +123,7 @@ https://github-readme-stats.vercel.app/api?username=scottschreckengaust
 https://visitor-badge.laobi.icu/badge?page_id=scottschreckengaust.scottschreckengaust
 -->
 
+<!--
 ---
 [![Visits](https://visitcount.itsvg.in/api?id=scottschreckengaust&icon=0&color=0)](https://visitcount.itsvg.in)
-
+-->
